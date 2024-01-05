@@ -1,29 +1,29 @@
-## Get Started
+## Mulai
 
 install dev dependencies
 
-### `npm install` or `yarn install`
+### `instal npm` atau `yarn install`
 
-## Then
+## Kemudian
 
-go to https://www.weatherapi.com . create an account and get the api key then use that api key in constants/index.js file
+buka https://www.weatherapi.com. buat akun dan dapatkan kunci api lalu gunakan kunci api itu di file constants/index.js
 
-## Then
+## Kemudian
 
-Run The app
+Jalankan Aplikasinya
 
-### `npm start` or `yarn start`
+### `npm start` atau `yarn start`
 
-Runs your app in development mode.
+Jalankan aplikasi Anda dalam mode pengembangan.
 
-Open it in the [Expo app](https://expo.io) on your phone to view it. It will reload if you save edits to your files, and you will see build errors and logs in the terminal.
+Buka di [aplikasi Expo](https://expo.io) di ponsel Anda untuk melihatnya. Ini akan dimuat ulang jika Anda menyimpan hasil edit ke file Anda, dan Anda akan melihat kesalahan build dan log di terminal.
 
-#### `npm run ios` or `yarn run ios`
+#### `npm run ios` atau `yarn run ios`
 
-Like `npm start` / `yarn start`, but also attempts to open your app in the iOS Simulator if you're on a Mac and have it installed.
+Seperti `npm start` / `yarn start`, tetapi juga mencoba membuka aplikasi Anda di Simulator iOS jika Anda menggunakan Mac dan telah menginstalnya.
 
 #### `npm run android` or `yarn run android`
 
-Like `npm start` / `yarn start`, but also attempts to open your app on a connected Android device or emulator. Requires an installation of Android build tools (see [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html) for detailed setup).
+Seperti `npm start` / `yarn start`, tetapi juga mencoba membuka aplikasi Anda di perangkat atau emulator Android yang terhubung. Memerlukan instalasi alat build Android (lihat [dokumen React Native](https://facebook.github.io/react-native/docs/getting-started.html) untuk penyiapan detail).
 
 <br />
